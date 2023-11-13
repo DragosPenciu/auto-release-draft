@@ -2,13 +2,6 @@ name: 'Auto release draft'
 description: 'Draft a github release'
 author: 'Dragos Penciu'
 
-# Define your inputs here.
-inputs:
-  milliseconds:
-    description: 'Your input description here'
-    required: true
-    default: '1000'
-    
 # Define your outputs here.
 # Define your outputs here.
 outputs:
